@@ -1,6 +1,6 @@
 # Premium Finance Agreements and Data Analysis
 # Project Overview
-This project analyzes Premium Finance Agreement data using Excel and Power BI to understand loan performance, borrower behavior, and agreement status.
+This project analyzes Premium Finance Agreement data using Excel and Power BI to understand loan performance,borrower behavior, and agreement status.
 # Objectives
 * Analyze total loan amount and agreement distribution. 
 * Study agreement status (Active, Completed, Pending, Defaulted). 
